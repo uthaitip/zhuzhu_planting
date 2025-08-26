@@ -1,6 +1,6 @@
 <template>
   <div>
-    <BasesHeadTopic :title="'รายการสินค้า'" />
+    <BasesHeadTopic :title="'รายการสินค้า123'" />
     <div class="grid grid-cols-2">
       <div class="flex">
         <input
