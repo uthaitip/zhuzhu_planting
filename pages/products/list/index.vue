@@ -1,6 +1,7 @@
 <template>
   <div>
     <BasesHeadTopic :title="'รายการสินค้า'" />
+    123 abc
     <div class="grid grid-cols-2">
       <div class="flex">
         <input
